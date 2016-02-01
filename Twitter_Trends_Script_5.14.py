@@ -19,7 +19,7 @@ from twython import Twython
 from urllib2 import unquote 
 import pandas as pd
         
-# My Twitter credentials.Please replace with your own at apps.twitter.com.
+# Please use your own Twitter credentials, found at apps.twitter.com.
 APP_KEY = "C0mughtR15ab8e06qGQbVjmLF"
 APP_SECRET = "GOgphYsPfh3jR4JYLH6s0GPrq0wdzQr1IpwSKqidnqXxh1Fd7W"
 OAUTH_TOKEN = "227459435-IHYybp0wrxGKV8WrgYyECFJ9osyx1dgvNttR2ilc"

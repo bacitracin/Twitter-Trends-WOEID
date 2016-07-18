@@ -20,10 +20,10 @@ from urllib2 import unquote
 import pandas as pd
         
 # Please use your own Twitter credentials, found at apps.twitter.com.
-APP_KEY = "C0mughtR15ab8e06qGQbVjmLF"
-APP_SECRET = "GOgphYsPfh3jR4JYLH6s0GPrq0wdzQr1IpwSKqidnqXxh1Fd7W"
-OAUTH_TOKEN = "227459435-IHYybp0wrxGKV8WrgYyECFJ9osyx1dgvNttR2ilc"
-OAUTH_TOKEN_SECRET = "fy5ezX1A3uRESUKnsjFniZQgWKxfoqySBlJJkwdBaBmLw"
+APP_KEY = "REPLACE_WITH_YOUR_APP_KEY"
+APP_SECRET = "REPLACE_WITH_YOUR_APP_SECRET"
+OAUTH_TOKEN = "REPLACE_WITH_YOUR_OAUTH_TOKEN"
+OAUTH_TOKEN_SECRET = "REPLACE_WITH_YOUR_OAUTH_TOKEN_SECRET"
 
 # Yahoo WOEIDs, you can specify by city, address, zip code, state country... 
 # See more here: http://woeid.rosselliot.co.nz/lookup/
